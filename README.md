@@ -1,6 +1,6 @@
 # Project Process Templates
 
-A set of templates for running smarter, calmer projects — made with care by Story by Numbers.
+A set of templates for running smarter, calmer projects — made with care by [Story by Numbers](https://storybynumbers.com).
 
 ## Overview
 
